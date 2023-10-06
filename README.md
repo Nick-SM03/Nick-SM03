@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there ,Myself NIKHIL👋
+<p>I am IT Student</p>
+<p>Ready to jump into the world of Technology</p>
 
 <!--
 **Nick-SM03/Nick-SM03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
