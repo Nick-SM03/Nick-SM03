@@ -9,4 +9,4 @@ Here are some information about myself:
 - 👯  I’m passionate about doing Projects and contributing Something to society.</p>
   <h4>Programming Languages Known :</h4> <p>Python , Java ,HTML , CSS , JS</p>
 - 🤔 Skilled in problem solving , DSA.
-- 💬 here my Linkedin prifile : <a href="www.linkedin.com/in/nikhil38">Nikhil</a>
+- 💬 here my Linkedin prifile : www.linkedin.com/in/nikhil38
