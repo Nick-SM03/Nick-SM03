@@ -1,18 +1,12 @@
 ### Hi there ,Myself NIKHIL👋
-<p>I am IT Student</p>
-<p>Ready to jump into the world of Technology</p>
+<p>I am a Full Stack Developer</p>
+<p style="font-family:Times new Roman,Arial;">Ready to jump into the world of Technology</p>
 
-<!--
-**Nick-SM03/Nick-SM03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Here are some information about myself:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently pursing my Bachelor of Technology focused in IT.
+- 👯  I’m passionate about doing Projects and contributing Something to society.</p>
+  <h4>Programming Languages Known :</h4> <p>Python , Java ,HTML , CSS , JS</p>
+- 🤔 Skilled in problem solving , DSA.
+- 💬 here my Linkedin prifile : <a href="www.linkedin.com/in/nikhil38">Nikhil</a>
